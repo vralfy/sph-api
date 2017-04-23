@@ -1,4 +1,8 @@
 [user]
+; if password is set, sph tries to create an encrypted password
+; on it's on. Remove this line, if you have an encrypted password
+; you want to use instead
+password = ""
 password_encrypted = ""
 download = "download"
 
