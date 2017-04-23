@@ -82,4 +82,10 @@ class SPH {
         ));
     }
 }
-?>
+
+/**
+ * Useful articles:
+ * ----------------
+ *
+ * http://blog.mellenthin.de/archives/2015/04/29/telekom-speedport-hybrid-logging-mit-rrdtool/comment-page-1/
+ */
